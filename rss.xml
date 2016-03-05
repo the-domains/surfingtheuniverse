@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Surfing the Universe]]></title>
+        <description><![CDATA[Surfing the Universe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 23:03:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Page 1 - Surfing the Multiverse - Increasing your Happiness One Universe at a Time]]></title>
+            <description><![CDATA[<article><h1>Page 1 - Surfing the Multiverse - Increasing your Happiness One Universe at a Time</h1><p>This is as good a title as any for what you are about to read. I am 100% certain that you will read this entire book - every word. I am as certain of this as I am that I in fact finish writing this book. How can I be so sure?</p><img src="https://surfingtheuniverse.files.wordpress.com/2015/11/page-01-surfing-the-multiverse.jpg?w=1000"></article>]]></description>
+            <link>http://surfingtheuniverse.com/2015/11/23/surfing-the-multiverse-increasing-your-happiness-one-universe-at-a-time/</link>
+            <guid isPermaLink="false">8afda8c7-e4af-498c-9328-a7190938173c</guid>
+            <pubDate>Sat, 05 Mar 2016 23:00:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
