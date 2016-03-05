@@ -4,8 +4,15 @@
         <description><![CDATA[Surfing the Universe]]></description>
         <link>https://thegrid.ai/surfingtheuniverse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 23:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 23:54:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/surfingtheuniverse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>have</p>]]></description>
+            <link>https://thegrid.ai/surfingtheuniverse/have/index.html</link>
+            <guid isPermaLink="false">77f54619-4c3d-4aeb-94de-92c65c7c5eb3</guid>
+            <pubDate>Sat, 05 Mar 2016 23:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>notice</p>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Page 58 - Quantum Life is Many Journeys]]></title>
-            <description><![CDATA[<article><h1>Page 58 - Quantum Life is Many Journeys</h1><p>Last night I stayed at a friend's place in SF. As I was walking to go eat and write at Tommy's Joint, I passed the Great American Music Hall. The Human Condition were performing later and they served food there so I decided to trade writing for live music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Page 58 - Quantum Life is Many Journeys</h1><p>Last night I stayed at a friend's place in SF. As I was walking to go eat and write at Tommy's Joint, I passed the Great American Music Hall. The Human Condition were performing later and they served food there so I decided to trade writing for live music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
             <link>http://surfingtheuniverse.com/2015/11/27/page-58-quantum-life-is-many-journeys/</link>
             <guid isPermaLink="false">166b501f-5b41-4d7f-b421-401eece90443</guid>
             <pubDate>Sat, 05 Mar 2016 23:52:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://surfingtheuniverse.com/2015/11/27/page-51-know-your-quantum-self/</link>
             <guid isPermaLink="false">37c1dd8e-fb82-4a3a-9478-f442dbc328e7</guid>
             <pubDate>Sat, 05 Mar 2016 23:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Page 61 - Sunset]]></title>
-            <description><![CDATA[<article><h1>Page 61 - Sunset</h1><p>I am sensing that this book is complete ... at least in this universe. My goal was to write down everything I had discovered about parallel universes up to this point in my life and I have now done that. I'm sure I will learn more ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b7d27e7a3079ccecd512e8f84305bb71e616fb0.jpg"></article>]]></description>
-            <link>http://surfingtheuniverse.com/2015/11/27/page-61-sunset/</link>
-            <guid isPermaLink="false">53f23b17-f8e3-4e36-ace8-bd384c2d8ef6</guid>
-            <pubDate>Sat, 05 Mar 2016 23:46:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
