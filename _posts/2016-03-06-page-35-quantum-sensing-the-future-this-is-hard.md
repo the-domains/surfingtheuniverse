@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://surfingtheuniverse.com/2015/11/27/page-35-quantum-sensing-the-future-this-is-hard/'
 title: 'Page 35 - Quantum Sensing the Future - This is HARD!'
-datePublished: '2016-03-06T00:26:07.886Z'
-dateModified: '2016-03-05T23:36:35.076Z'
+datePublished: '2016-03-06T00:34:45.469Z'
+dateModified: '2016-03-06T00:29:55.957Z'
 sourcePath: _posts/2016-03-06-page-35-quantum-sensing-the-future-this-is-hard.md
 published: true
 inFeed: true
