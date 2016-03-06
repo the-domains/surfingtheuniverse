@@ -32,8 +32,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://surfingtheuniverse.com/2015/11/27/page-34-who-are-you-quantum-sensing-into-the-future/'
 title: Page 34 - Who are you? Quantum Sensing into the Future
-datePublished: '2016-03-06T00:26:07.889Z'
-dateModified: '2016-03-05T23:36:49.605Z'
+datePublished: '2016-03-06T00:34:45.416Z'
+dateModified: '2016-03-06T00:30:11.537Z'
 sourcePath: _posts/2016-03-06-page-34-who-are-you-quantum-sensing-into-the-future.md
 published: true
 inFeed: true
